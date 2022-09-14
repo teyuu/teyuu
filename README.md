@@ -48,16 +48,6 @@ Here are some ideas to get you started:
   <img align="center" title="mongo" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
 
-<h4>Tools:</h4>
-<div>
-  <img align="center" title="vscode" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" title="git" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" title="npm" alt="npm" height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" />
-  <img align="center" title="slack" alt="slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" />
-</div>
-<br>
-<br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anthony29p&show_icons=true&theme=gotham" alt="" />
   
 <h4>Contact me:</h4>  
 <div align="center">
