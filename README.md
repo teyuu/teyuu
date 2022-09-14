@@ -1,5 +1,5 @@
-<h1 align="center">Hi, i'm Anthony</h1>
-<h3 align="center">Full stack web developer and a Industrial Engineer from Lima.</h3>
+<h1 align="center">Hi, I'm Matias</h1>
+<h3 align="center">Full stack web developer based in Argentina</h3>
 
 <!--
 **Anthony29p/anthony29p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 <div>
   <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" title="Typescript" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" title="Solidity" alt="Solidity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg">
 </div>
 
 <h4>Front-end:</h4>
