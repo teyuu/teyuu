@@ -54,7 +54,6 @@ Here are some ideas to get you started:
   <img align="center" title="git" alt="git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" title="npm" alt="npm" height="30" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" />
   <img align="center" title="slack" alt="slack" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/slack/slack-original.svg" />
-  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/photoshop/photoshop-line.svg" />
 </div>
 <br>
 <br>
@@ -62,10 +61,10 @@ Here are some ideas to get you started:
   
 <h4>Contact me:</h4>  
 <div align="center">
-  <a href="https://www.linkedin.com/in/anthony-p-53962163/">
+  <a href="https://www.linkedin.com/in/matias-tellini-12a705232/">
     <img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
-  <a href="mailto:anthony.perez@uni.pe">
+  <a href="tellini.matias@gmail.com">
     <img align="left" alt="" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />
   </a>
 </div> 
