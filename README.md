@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Matias</h1>
-<h3 align="center">Full stack web developer based in Argentina</h3>
+<h3 align="center">I'm a Full stack developer based in Argentina</h3>
 
 <!--
 **Anthony29p/anthony29p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
