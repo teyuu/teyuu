@@ -48,6 +48,7 @@ Here are some ideas to get you started:
   <img align="center" title="mongo" alt="mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div>
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=teyuu&show_icons=true&theme=gotham" alt="" />
   
 <h4>Contact me:</h4>  
 <div align="center">
