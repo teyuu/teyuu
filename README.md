@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I’m Mati 👋</h1>
 <h3 align="center">Full Stack Developer | Argentina</h3>
 
-<p align="center">I’m a 25-year-old developer and student of Técnico en Desarrollo de Software, passionate about building web apps that work well and look great. I enjoy tackling both frontend and backend challenges, and I’m always up for learning something new in this ever-evolving tech world.</p>
-
 ---
 
 ### What I Work With
