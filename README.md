@@ -37,14 +37,7 @@
 
 ---
 
-### A Bit More About Me
-- 🌱 **Currently Learning**: Diving deeper into Next.js and TypeScript to build faster, scalable apps.
-- 👯 **Looking to Collaborate**: On open-source projects or cool ideas—let’s build something together!
-- 💬 **Ask Me About**: React, backend APIs, or how to survive on mate and code.
-- 📫 **Reach Me**: Check out my contact links below.
-- ⚡ **Fun Fact**: I can debug code faster than I can decide what to eat for lunch.
 
----
 
 ### Stats
 <p align="center">
