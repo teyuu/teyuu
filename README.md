@@ -55,7 +55,7 @@
 ### Let’s Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/matias-tellini-12a705232/">
-    <img align="center" alt="LinkedIn" width="24px" src="[https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)" />
+    <img align="center" alt="LinkedIn" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="mailto:tellini.matias@gmail.com">
     <img align="center" alt="Email" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png" />
